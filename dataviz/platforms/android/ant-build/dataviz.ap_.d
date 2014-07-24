@@ -39,11 +39,15 @@
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/plugins \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/README.md \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/css/nv.d3.css \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/css/style.css \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/img/ionic.png \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/js/app.js \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/js/controllers.js \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/lib/angularjs-nvd3-directives.js \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/lib/d3.js \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/lib/ionic \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/lib/nv.d3.js \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/lib/ionic/css \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/lib/ionic/fonts \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/lib/ionic/js \
@@ -120,7 +124,7 @@
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/browse.html \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/login.html \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/menu.html \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/pie.html \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/playlist.html \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/playlists.html \
-/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/search.html \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/AndroidManifest.xml \

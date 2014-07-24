@@ -5,19 +5,19 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>E1A19F09-E9AF-4F96-8176-3027EAE84E44</string>
+	<string>D7938762-F6E8-4FD3-9C93-FA809C228BC0</string>
 	<key>IDESourceControlProjectName</key>
-	<string>dataviz</string>
+	<string>DataViz</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>ABB1BAC7-B5C6-47AC-86BE-860BC79148D1</key>
+		<key>38AD03C2-B6BC-4ECD-B5BC-A3A1EF6E861E</key>
 		<string>https://github.com/zmy/Cordova-with-Data-Visiualization.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>dataviz/platforms/ios/dataviz.xcodeproj/project.xcworkspace</string>
+	<string>dataviz/platforms/ios/DataViz.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>ABB1BAC7-B5C6-47AC-86BE-860BC79148D1</key>
+		<key>38AD03C2-B6BC-4ECD-B5BC-A3A1EF6E861E</key>
 		<string>../../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>ABB1BAC7-B5C6-47AC-86BE-860BC79148D1</string>
+	<string>38AD03C2-B6BC-4ECD-B5BC-A3A1EF6E861E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>ABB1BAC7-B5C6-47AC-86BE-860BC79148D1</string>
+			<string>38AD03C2-B6BC-4ECD-B5BC-A3A1EF6E861E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Cordova-with-Data-Visiualization</string>
 		</dict>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ionicframework.dataviz572111" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="cn.edu.tsinghua.zmy.dataviz" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <preference name="AllowInlineMediaPlayback" value="false" />
     <preference name="AutoHideSplashScreen" value="true" />
     <preference name="BackupWebStorage" value="cloud" />
@@ -28,12 +28,12 @@
     <feature name="Device">
         <param name="ios-package" value="CDVDevice" />
     </feature>
-    <name>dataviz</name>
+    <name>DataViz</name>
     <description>
-        An Ionic Framework and Cordova project.
+        An Ionic Framework and Cordova project to visiualize data.
     </description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+    <author email="mengyu.chou@gmail.com" href="http://github.com/zmy">
+        Mengyu Zhou
     </author>
     <content src="index.html" />
     <access origin="*" />

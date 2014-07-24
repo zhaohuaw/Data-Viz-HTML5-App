@@ -1,4 +1,4 @@
-/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-gen/com/ionicframework/dataviz572111/R.java \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-gen/cn/edu/tsinghua/zmy/dataviz/R.java \
  : /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/res/drawable/icon.png \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/res/drawable-hdpi/icon.png \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/res/drawable-land-hdpi/screen.png \

@@ -17,7 +17,7 @@
  under the License.
  */
 //
-// Prefix header for all source files of the 'dataviz' target in the 'dataviz' project
+// Prefix header for all source files of the 'DataViz' target in the 'DataViz' project
 //
 
 #ifdef __OBJC__

@@ -1,0 +1,22 @@
+<ion-view title="Pie Chart">
+    <ion-nav-buttons side="left">
+        <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+    </ion-nav-buttons>
+    <ion-content class="has-header">
+        <link rel="stylesheet" href="/css/nv.d3.css"/>
+        <div ng-controller="PieCtrl">
+            <nvd3-pie-chart
+                    data="exampleData"
+                    id="exampleId"
+                    margin="{left:0,top:0,bottom:0,right:0}"
+                    x="xFunction()"
+                    y="yFunction()"
+                    showLabels="true"
+                    pieLabelsOutside="false"
+                    showValues="true"
+                    labelType="percent">
+                <svg></svg>
+            </nvd3-pie-chart>
+        </div>
+    </ion-content>
+</ion-view>

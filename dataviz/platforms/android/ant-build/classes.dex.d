@@ -1,4 +1,11 @@
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/classes.dex : \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/classes/cn/edu/tsinghua/zmy/dataviz/BuildConfig.class \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/classes/cn/edu/tsinghua/zmy/dataviz/dataviz.class \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/classes/cn/edu/tsinghua/zmy/dataviz/R$attr.class \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/classes/cn/edu/tsinghua/zmy/dataviz/R$drawable.class \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/classes/cn/edu/tsinghua/zmy/dataviz/R$string.class \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/classes/cn/edu/tsinghua/zmy/dataviz/R$xml.class \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/classes/cn/edu/tsinghua/zmy/dataviz/R.class \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$1.class \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$2.class \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \

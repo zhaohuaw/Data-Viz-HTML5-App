@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:dataviz.xcodeproj">
+      location = "self:DataViz.xcodeproj">
    </FileRef>
 </Workspace>

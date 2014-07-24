@@ -1,3 +1,3 @@
 # view AndroidManifest.xml #generated:6
--keep class com.ionicframework.dataviz572111.dataviz { <init>(...); }
+-keep class cn.edu.tsinghua.zmy.dataviz.dataviz { <init>(...); }
 

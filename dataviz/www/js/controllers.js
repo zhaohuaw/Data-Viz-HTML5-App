@@ -33,20 +33,6 @@ angular.module('starter.controllers', [])
   };
 })
 
-.controller('PlaylistsCtrl', function($scope) {
-  $scope.playlists = [
-    { title: 'Reggae', id: 1 },
-    { title: 'Chill', id: 2 },
-    { title: 'Dubstep', id: 3 },
-    { title: 'Indie', id: 4 },
-    { title: 'Rap', id: 5 },
-    { title: 'Cowbell', id: 6 }
-  ];
-})
-
-.controller('PlaylistCtrl', function($scope, $stateParams) {
-})
-
 .controller('PieCtrl', function($scope) {
     console.log("generating data :)");
     $scope.exampleData = [
@@ -97,4 +83,22 @@ angular.module('starter.controllers', [])
             return d.key;
         }
     }
-});
+})
+
+.controller('BarCtrl', function($scope) {
+    $scope.exampleData = [
+        {
+            key: "Cumulative Return",
+            values: [
+                ["A", -29.765957771107 ],
+                ["B" , 0 ],
+                ["C" , 32.807804682612 ],
+                ["D" , 196.45946739256 ],
+                ["E" , 0.19434030906893 ],
+                ["F" , -98.079782601442 ],
+                ["G" , -13.925743130903 ],
+                ["H" , -5.1387322875705 ]
+            ]
+        }
+    ];
+})

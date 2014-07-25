@@ -121,10 +121,9 @@
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/plugins/com.ionic.keyboard/www/keyboard.js \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/plugins/org.apache.cordova.device/www \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/plugins/org.apache.cordova.device/www/device.js \
-/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/browse.html \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/about.html \
+/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/bar.html \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/login.html \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/menu.html \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/pie.html \
-/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/playlist.html \
-/Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/assets/www/templates/playlists.html \
 /Users/moony/Projects/Cordova-with-Data-Visiualization/dataviz/platforms/android/ant-build/AndroidManifest.xml \

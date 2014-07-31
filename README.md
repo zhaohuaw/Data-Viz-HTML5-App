@@ -37,4 +37,9 @@ $ ionic emulate ios
 ```
 或者直接用Xcode模拟运行或者部署。
 
+如下为Demo在Android和iOS上运行的截图：
+
+![](../images/android-pie-chart.png)
+![](../images/ios-discrete-bar.png)
+
 # 2. 开发框架介绍

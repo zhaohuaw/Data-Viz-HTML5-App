@@ -19,9 +19,9 @@ $ npm install -g cordova ionic
 Windows下的配置可以参考[这里](http://learn.ionicframework.com/videos/windows-android/)。
 
 ## 运行dataviz应用
-所有在代码库里的内容是已经编译好的，比如可以直接打开DataViz.xcodeproj查看iOS项目。
+所有在代码库里的内容是已经编译好的，比如可以直接打开[DataViz.xcodeproj](dataviz/platforms/ios/dataviz.xcodeproj)查看iOS项目。
 
-再修改了www目录下的内容或者config.xml文件后，需要重新编译：
+再修改了[www](dataviz/www)目录下的内容或者config.xml文件后，需要重新编译：
 
 * 重新编译运行Android项目：
 ```shell

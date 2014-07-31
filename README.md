@@ -39,7 +39,15 @@ $ ionic emulate ios
 
 如下为Demo在Android和iOS上运行的截图：
 
-![](../images/android-pie-chart.png)
-![](../images/ios-discrete-bar.png)
+![Android](../images/android-pie-chart.png)
+
+![iOS](../images/ios-discrete-bar.png)
 
 # 2. 开发框架介绍
+
+## Cordova
+## Ionic
+## Angular.js
+## D3.js
+
+# 3. 参考资料

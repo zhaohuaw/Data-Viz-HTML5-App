@@ -89,7 +89,7 @@ Ionic本身包括AngularJS，在Demo的[index.html](dataviz/www/index.html)中�
 对于数据可视化应用，D3.js是一个非常容易定制和使用的Javascript库。
 不过由于AngularJS的MVC模式，使用D3.js需要一定的额外设置，可以选择：
 * 自定义灵活的directives，可以参考[这里](http://www.ng-newsletter.com/posts/d3-on-angular.html)
-* 使用封装好的JS库，灵活性较差但是可以快速上手，比如Demo中使用的的[Angularjs-nvd3-directives](http://cmaurer.github.io/angularjs-nvd3-directives/)
+* 使用封装好的JS库，灵活性较差但是可以快速上手，比如Demo中使用的[Angularjs-nvd3-directives](http://cmaurer.github.io/angularjs-nvd3-directives/)
 
 # 3. 参考资料
 * [Cordova Documentation](http://cordova.apache.org/docs/en/3.5.0/)
